@@ -1,3 +1,3 @@
 # KAKAO Clone 2023.
 
-yrr
+HTML and CSS and JS
