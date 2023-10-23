@@ -1,0 +1,28 @@
+.badge {
+    background-color: tomato;
+    width:30px;
+    height:30px;
+    border-radius:15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
+.badge__empty {
+    border:1px solid tomato;
+    width:30px;
+    height:30px;
+    border-radius:15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: tomato;
+    font-weight: 600;
+}
+
+.gojung {
+    opacity: 0.2;
+    margin-left: 5px;
+}
