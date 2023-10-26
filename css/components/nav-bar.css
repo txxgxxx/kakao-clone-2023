@@ -39,7 +39,7 @@
         transform:none;
     }
     50% {
-        transform: translateY(-5px) rotateY(360deg);
+        transform: translateY(-5px) rotateY(180deg);
     }
     100% {
         transform: none;

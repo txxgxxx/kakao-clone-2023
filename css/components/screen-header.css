@@ -13,7 +13,7 @@
 .screen-header__icons span {
     margin-left:30px;
 }
-@keyframes rotateCog {
+@keyframes rotateGear {
     from {
         transform: none;
     }
@@ -22,8 +22,8 @@
     }
 }
 
-.screen-header__icons .fa-cog:hover {
-    animation : rotateCog 1s linear infinite;
+.screen-header__icons .fa-gear:hover {
+    animation : rotateGear 3s linear infinite;
 }
 .screen-header__icons__gear{
     position:relative;
